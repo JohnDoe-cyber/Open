@@ -8,7 +8,12 @@ Hi Linux from Windows
 This is spectacular.
 
 Linux change from JohnDeo Susan
-linux has some distros
-L for Linux.
-Linux has many distros.
+
+linux has some distros.
 <hr>
+
+linux has some distros
+
+
+Linux has many distros.
+
