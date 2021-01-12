@@ -9,3 +9,5 @@ This is spectacular.
 
 Linux change from JohnDeo Susan
 
+Linux has many distros.
+
