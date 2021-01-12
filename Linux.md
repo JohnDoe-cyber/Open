@@ -3,5 +3,9 @@
 Its the best. I use it all day.
 
 Linux is the best.
-Hi Linus from Windows
+
+Hi Linux from Windows
 This is spectacular.
+
+Linux change from JohnDeo Susan
+
