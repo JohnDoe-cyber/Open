@@ -8,4 +8,5 @@ Hi Linux from Windows
 This is spectacular.
 
 Linux change from JohnDeo Susan
+linux has some distros
 
