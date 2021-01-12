@@ -9,6 +9,6 @@ This is spectacular.
 
 Linux change from JohnDeo Susan
 linux has some distros
-
+L for Linux.
 Linux has many distros.
-
+<hr>
